@@ -14,10 +14,6 @@ La specifica completa è disponibile [qui](https://github.com/ale-polimi/progett
 
 Le regole del progetto sono disponibili [qui](https://github.com/ale-polimi/progetto-RL-2022-2023/blob/main/documents/PFRL_Regole_22_23.pdf).
 
-## Documentazione
-
-La documentazione per il progetto è disponibile [qui](https://github.com/ale-polimi/progetto-RL-2022-2023/blob/main/documents/Documentazione_Progetto_RL_2022_2023.pdf).
-
 ## Strumenti utilizzati
 
 | Descrizione       | Strumento              |
